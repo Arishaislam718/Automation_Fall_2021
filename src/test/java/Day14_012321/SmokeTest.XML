@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Test">
+    <test name="Automation Test" preserve-order="true">
+        <classes>
+            <class name="Day11_011521.GoogleSearch_DataDrivenForXML" />
+            <class name="Day12_011621.List_WebElement_USPS_XML" />
+            <class name="Day12_011621.ExtendReport_USPS_XML" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
